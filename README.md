@@ -1,6 +1,4 @@
-$ Tic-Tac-Toe
-
-I know that the directions said to spend only a few hours on the problems, I got a little carried away with Tic-Tac-Toe because I really enjoyed building it, so I went ahead and polished it off.
+### Tic-Tac-Toe
 
 The game begins by the user clicking on a button to specify if the game will be one player or two player. The first player is always 'X'. The squares are colored based on the marking, red for 'X', green for 'Y'. The squares are made the current player's color if hovered upon.
 
